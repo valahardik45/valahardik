@@ -1,2 +1,2 @@
 # valahardik
-valahardik.azurewebsites.net
+https://haddyvala.azurewebsites.net
